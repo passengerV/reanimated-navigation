@@ -1,0 +1,1 @@
+export {getRandomWidth} from './getRandomWidth';
